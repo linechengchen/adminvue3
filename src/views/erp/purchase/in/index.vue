@@ -197,7 +197,7 @@
     >
       <el-table-column width="30" label="选择" type="selection" />
       <el-table-column min-width="180" label="入库单号" align="center" prop="no" />
-      <el-table-column label="产品信息" align="center" prop="productNames" min-width="200" />
+      <el-table-column label="产品信息" align="center" prop="productName" min-width="200" />
       <el-table-column label="供应商" align="center" prop="supplierName" />
       <el-table-column
         label="入库时间"

@@ -184,9 +184,9 @@ const loginData = reactive({
   captchaEnable: import.meta.env.VITE_APP_CAPTCHA_ENABLE,
   tenantEnable: import.meta.env.VITE_APP_TENANT_ENABLE,
   loginForm: {
-    tenantName: '芋道源码',
+    tenantName: '正博智能机械',
     username: 'admin',
-    password: 'admin123',
+    password: '',
     captchaVerification: '',
     rememberMe: false
   }
